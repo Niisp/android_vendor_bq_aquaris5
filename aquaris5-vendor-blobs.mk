@@ -145,7 +145,6 @@ PRODUCT_COPY_FILES += \
  vendor/bq/aquaris5/proprietary/etc/firmware/WIFI_RAM_CODE_MT6628:system/etc/firmware/WIFI_RAM_CODE_MT6628 \
  vendor/bq/aquaris5/proprietary/etc/firmware/catcher_filter.bin:system/etc/firmware/catcher_filter.bin \
  vendor/bq/aquaris5/proprietary/etc/firmware/WMT.cfg:system/etc/firmware/WMT.cfg \
- vendor/bq/aquaris5/proprietary/etc/firmware/touchpanel/tinno-fts-update-0514.ekt:system/etc/firmware/touchpanel/tinno-fts-update-0514.ekt \
  vendor/bq/aquaris5/proprietary/etc/audio_policy.conf:system/etc/audio_policy.conf \
  vendor/bq/aquaris5/proprietary/etc/audio_effects.conf:system/etc/audio_effects.conf \
  vendor/bq/aquaris5/proprietary/etc/mtk_omx_core.cfg:system/etc/mtk_omx_core.cfg
